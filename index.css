@@ -1,0 +1,16 @@
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+    background-color: aqua;
+}
+body
+{
+    background-color: rgb(129, 8, 113);
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
